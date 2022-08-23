@@ -61,7 +61,7 @@
     background: #FC8F8F;
 }
 
-.size {
+.block_container .margin ~ .box {
     margin-right: 15px;
 }
 
@@ -79,6 +79,5 @@
 }
 
 .third_color_block {
-    width: 1000px;
     background: #E6E6E6;
 }
